@@ -1,9 +1,0 @@
-Group Members
-Prajeeth Bharadwaj Kittoor Muralidhar (9087859642) - kittoormural@wisc.edu
-Arnav Anurag Agarwal (9088684601) - aagarwal235@wisc.edu
-Hemant Chandak (9088632980) - hchandak@wisc.edu
-
-Contributions
-We booked a meeting room to collectively go through the base code and documents.
-We brainstormed together on how to implement the select, insert and delete functions through whiteboarding pseudo code.
-We each implemented seperate functions and went through each other's code.
