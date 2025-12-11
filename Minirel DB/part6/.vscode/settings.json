@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "create.C": "cpp",
+        "insert.C": "cpp",
+        "heapfile.C": "cpp",
+        "catalog.C": "cpp",
+        "load.C": "cpp",
+        "delete.C": "cpp",
+        "select.C": "cpp",
+        "dbcreate.C": "cpp"
+    }
+}
